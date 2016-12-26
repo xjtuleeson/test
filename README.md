@@ -1,2 +1,3 @@
 # test
-try how to use
+try how to use！
+I am a beginer.
